@@ -1,8 +1,0 @@
-en:
-  accession:
-    user_defined:
-      enum_1: Gift Agreement Status
-      string_1: Processing Staff
-      boolean_1: Acknowledged
-      text_1: Thank You Note
-      text_2: Location info
